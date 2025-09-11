@@ -1,16 +1,17 @@
 import React from "react";
-import HeadingInput from "./Components/HeadingInput";
-import Counter from "./Components/Counter";
-import MultipleInputFields from "./Components/MultipleInputFields";
-import MarksForm from "./Components/MarksForm";
+import "./promise";
+// import HeadingInput from "./Components/HeadingInput";
+// import Counter from "./Components/Counter";
+// import MultipleInputFields from "./Components/MultipleInputFields";
+// import MarksForm from "./Components/MarksForm";
 
 export default function App() {
   return (
     <div>
-      <Counter />
+      {/* <Counter />
       <HeadingInput />
       <MultipleInputFields />
-      <MarksForm />
+      <MarksForm /> */}
     </div>
   );
 }
